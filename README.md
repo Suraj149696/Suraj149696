@@ -1,4 +1,4 @@
-[![MasterHead](https://klaxos.com/wp-content/uploads/2017/12/manufacturing-Industrialist.jpg)](https://rishavchanda.io)
+[![MasterHead](https://hackernoon.imgix.net/images/hzjh3zjk.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Suraj Jagtap</h1>
 <h3 align="center">🎓 Master's in Applied Statistics with Data Science | 📊 Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
