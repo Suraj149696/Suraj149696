@@ -23,7 +23,7 @@ Statistical Modeling: Linear & Logistic Regression, Time Series Analysis
 
 Machine Learning: Supervised Learning, NLP, Sentiment Analysis
 
-Database Management: SQL
+Database Management: SQL, Mongo DB
 
 
 🚀 Projects
