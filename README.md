@@ -1,4 +1,4 @@
-[![MasterHead](https://hackernoon.imgix.net/images/hzjh3zjk.gif)](https://suraj149696.github.io/Suraj-Data-Analyst/)
+
 
 <h1 align="center">Hi 👋, I'm Suraj Jagtap</h1>
 
