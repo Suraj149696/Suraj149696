@@ -11,16 +11,34 @@
 
 <img align="right" alt="Coding" width="380" src="https://indoanalytica.com/static/images/data-science-5.gif"/>
 
-### 👨‍💼 About Me
 
-- 🎓 **Master's in Applied Statistics with Data Science**
-- 💼 Actively seeking roles in **Data Analyst | Business Analyst | MIS | Power BI Developer | Supply Chain Analytics**
-- 🔭 Currently working on **Inventory, Procurement & Sales BI Platform** — 15.6M+ records, $452M revenue analysed
-- 📊 Passionate about turning raw data into **actionable business insights**
-- 🌱 Currently deepening skills in **DAX, Advanced Power BI, and Forecasting Models**
-- 💬 Ask me about **Python, SQL, Power BI, EDA, Supply Chain Analytics**
-- 📫 Reach me at **suraj149696@gmail.com**
-- 🌐 Portfolio: [suraj149696.github.io/Suraj-Data-Analyst](https://suraj149696.github.io/Suraj-Data-Analyst/)
+## About Me
+
+ 
+
+M.S. Applied Statistics & Data Science | Open to Data Analyst · Business Analyst · MIS · Power BI Developer · Supply Chain Analytics roles.
+
+ 
+
+I architect end-to-end BI solutions — from raw, multi-million-row datasets to executive-ready dashboards that drive measurable decisions. Currently leading a 15.6M+ record Inventory, Procurement & Sales BI Platform covering $452M in revenue, with a focus on DAX optimization, advanced Power BI modelling, and demand forecasting.
+
+ 
+
+---
+
+ 
+
+🔧 Core Stack: Python · SQL · Power BI · DAX · Excel · EDA
+
+📦 Domain Focus: Supply Chain · Procurement · Sales Analytics · MIS Reporting
+
+📈 Currently Deepening: Advanced DAX patterns · Forecasting models · Power BI architecture
+
+💬 Ask Me About: Turning messy ops data into boardroom-ready insight
+
+📫 Reach Me: suraj149696@gmail.com
+
+🌐 Portfolio: suraj149696.github.io/Suraj-Data-Analyst
 
 <br clear="right"/>
 
