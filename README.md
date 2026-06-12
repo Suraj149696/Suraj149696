@@ -16,11 +16,11 @@
 
  
 
-M.S. Applied Statistics & Data Science | Open to Data Analyst · Business Analyst · MIS · Power BI Developer · Supply Chain Analytics roles.
+M.S. Applied Statistics & Data Science | Actively seeking roles in Data Analytics · Business Intelligence · MIS · Power BI Development.
 
  
 
-I architect end-to-end BI solutions — from raw, multi-million-row datasets to executive-ready dashboards that drive measurable decisions. Currently leading a 15.6M+ record Inventory, Procurement & Sales BI Platform covering $452M in revenue, with a focus on DAX optimization, advanced Power BI modelling, and demand forecasting.
+I build end-to-end BI solutions — from raw, multi-million-row datasets to executive-ready dashboards that drive measurable decisions. My recent work spans a 15.6M+ record BI platform covering $452M in analysed revenue, delivering insight across performance tracking, operational reporting, and strategic planning.
 
  
 
@@ -28,17 +28,15 @@ I architect end-to-end BI solutions — from raw, multi-million-row datasets to 
 
  
 
-🔧 Core Stack: Python · SQL · Power BI · DAX · Excel · EDA
+🔧 Core Stack:   Python · SQL · MongoDB · Power BI · DAX · Excel · Statistics
 
-📦 Domain Focus: Supply Chain · Procurement · Sales Analytics · MIS Reporting
+📈 Advancing In:  DAX optimization · Predictive modelling · Power BI architecture · ML-driven forecasting
 
-📈 Currently Deepening: Advanced DAX patterns · Forecasting models · Power BI architecture
+💬 Ask Me About: Turning messy data into boardroom-ready insight
 
-💬 Ask Me About: Turning messy ops data into boardroom-ready insight
+📫 Reach Me:    suraj149696@gmail.com
 
-📫 Reach Me: suraj149696@gmail.com
-
-🌐 Portfolio: suraj149696.github.io/Suraj-Data-Analyst
+🌐 Portfolio:     suraj149696.github.io/Suraj-Data-Analyst
 
 <br clear="right"/>
 
