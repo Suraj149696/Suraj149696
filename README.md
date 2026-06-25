@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suraj149696&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Suraj149696?label=Followers&style=social" alt="followers" />
+
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://indoanalytica.com/static/images/data-science-5.gif"/>
